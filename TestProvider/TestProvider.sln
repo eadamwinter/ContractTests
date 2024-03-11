@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPactNet", "TestPactNet\TestPactNet.csproj", "{8A0E3009-82F6-4441-BB6C-76727662B144}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProvider", "Provider2\TestProvider.csproj", "{16138DBF-84CC-4889-9799-0058D17086C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProvider", "TestProvider\TestProvider.csproj", "{16138DBF-84CC-4889-9799-0058D17086C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
